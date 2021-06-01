@@ -1,0 +1,64 @@
+body {
+	background: #FFE4C4;
+}
+
+topside {
+	float: right;
+	background: #8FBC8F;
+	width: 100%;
+	padding: 2%;
+	height: 15vh;
+	color: #9400D3;
+	border: 1px solid #4d4d4d;
+}
+
+topside img {
+	padding: 1%;
+	width: 90px;
+	height: 90px;
+	float: left;
+}
+
+topside .logo{
+	font-size: 35px;
+	margin-left: 10px;
+	font-weight: bold;
+	position: relative;
+	bottom: -4px;
+}
+
+topside h5{
+	font-size: 20px;
+	margin-left: 20px;
+
+}
+  
+
+topside ul {
+	margin-left: 170px;
+	margin-top: -30px;
+	color: #9400D3;
+
+
+}
+
+topside ul a, topside ul li{
+	color: #9400D3;
+	margin-left: 10px;
+		
+}
+
+
+
+main .features h1 {
+	font-size: 40px;
+	text-align: center;
+
+}
+
+
+main .features p {
+	margin: 10px auto;
+	text-align: center;
+
+}
